@@ -1,7 +1,7 @@
 1	2019	"When We All Fall Asleep, Where Do We Go?"	Billie Eilish	2019	Pop/Rock
-2	2019	"Thank U, Next"	Ariana Grande	2019	Pop/Rock
+2	2019	"Thank U, Next"	Ariana Grande	2019	Pop
 3	2019	A Star Is Born (Soundtrack)	Lady Gaga & Bradley Cooper	2018	Stage & Screen
-4	2019	Lover	Taylor Swift	2019	Pop/Rock
+4	2019	Lover	Taylor Swift	2019	Pop
 5	2019	beerbongs & bentleys	Post Malone	2018	Rap
 6	2019	Scorpion	Drake	2018	Rap
 7	2019	Championships	Meek Mill	2018	Rap
@@ -13,48 +13,48 @@
 13	2019	Free Spirit	Khalid	2019	R&B
 14	2019	The Greatest Showman	Soundtrack	2017	Stage & Screen
 15	2019	Spider-Man: Into The Spider-Verse	Soundtrack	2018	Rap
-16	2019	Dont Smile At Me	Billie Eilish	2017	Pop/Rock
+16	2019	Dont Smile At Me	Billie Eilish	2017	Pop
 17	2019	Goodbye & Good Riddance	Juice WRLD	2018	Rap
 18	2019	I Am > I Was	21 Savage	2018	Rap
 19	2019	Invasion Of Privacy	Cardi B	2018	Rap
-20	2019	Cuz I Love You	Lizzo	2019	Pop/Rock
+20	2019	Cuz I Love You	Lizzo	2019	R&B
 21	2019	?	XXXTENTACION	2018	Rap
 22	2019	Death Race For Love	Juice WRLD	2019	Rap
 23	2019	Drip Harder	Lil Baby & Gunna	2018	Rap
 24	2019	Stoney	Post Malone	2016	Rap
-25	2019	Happiness Begins	Jonas Brothers	2019	Pop/Rock
+25	2019	Happiness Begins	Jonas Brothers	2019	Pop
 26	2019	Dan + Shay	Dan + Shay	2018	Country
-27	2019	Greatest Hits	Queen	2004	Pop/Rock
+27	2019	Greatest Hits	Queen	2004	Rock
 28	2019	Baby On Baby	DaBaby	2019	Rap
 29	2019	Hamilton: An American Musical	Original Broadway Cast	2015	Stage & Screen
 30	2019	Look Up Child	Lauren Daigle	2018	Religious
-31	2019	÷ (Divide)	Ed Sheeran	2017	Pop/Rock
-32	2019	Sweetener	Ariana Grande	2018	Pop/Rock
+31	2019	÷ (Divide)	Ed Sheeran	2017	Pop
+32	2019	Sweetener	Ariana Grande	2018	Pop
 33	2019	Dying To Live	Kodak Black	2018	Rap
-34	2019	Diamonds	Elton John	2017	Pop/Rock
-35	2019	No.6 Collaborations Project	Ed Sheeran	2019	Pop/Rock
+34	2019	Diamonds	Elton John	2017	Rock
+35	2019	No.6 Collaborations Project	Ed Sheeran	2019	Pop
 36	2019	American Teen	Khalid	2017	R&B
 37	2019	Indigo	Chris Brown	2019	R&B
-38	2019	Shawn Mendes	Shawn Mendes	2018	Pop/Rock
-39	2019	Pray For The Wicked	Panic! At The Disco	2018	Pop/Rock
+38	2019	Shawn Mendes	Shawn Mendes	2018	Pop
+39	2019	Pray For The Wicked	Panic! At The Disco	2018	Rock
 40	2019	Tha Carter V	Lil Wayne	2018	Rap
 41	2019	Ella Mai	Ella Mai	2018	R&B
 42	2019	Experiment	Kane Brown	2018	Country
 43	2019	X 100PRE	Bad Bunny	2018	Latin
-44	2019	Origins	Imagine Dragons	2018	Pop/Rock
+44	2019	Origins	Imagine Dragons	2018	Rock
 45	2019	Street Gossip	Lil Baby	2018	Rap
 46	2019	7 (EP)	Lil Nas X	2019	Rap
 47	2019	Not All Heroes Wear Capes	Metro Boomin	2018	Rap
 48	2019	So Much Fun	Young Thug	2019	Rap
 49	2019	Traveller	Chris Stapleton	2015	Country
-50	2019	Evolve	Imagine Dragons	2017	Pop/Rock
-51	2019	Map Of The Soul: PERSONA	BTS	2019	Pop/Rock
+50	2019	Evolve	Imagine Dragons	2017	Rock
+51	2019	Map Of The Soul: PERSONA	BTS	2019	Pop
 52	2019	Kamikaze	Eminem	2018	Rap
 53	2019	Victory Lap	Nipsey Hussle	2018	Rap
 54	2019	Drip Or Drown 2	Gunna	2019	Rap
 55	2019	DAMN.	Kendrick Lamar	2017	Rap
 56	2019	A Love Letter To You 3	Trippie Redd	2018	Rap
-57	2019	Abbey Road	The Beatles	1969	Pop/Rock
+57	2019	Abbey Road	The Beatles	1969	Rock
 58	2019	Luv Is Rage 2	Lil Uzi Vert	2017	Rap
 59	2019	Realer	YoungBoy Never Broke Again	2018	Rap
 60	2019	17	XXXTENTACION	2017	Rap
@@ -677,7 +677,7 @@
 77	2016	The Getaway	Red Hot Chili Peppers	2016	Pop/Rock
 78	2016	American Beauty / American Psycho	Fall Out Boy	2015	Pop/Rock
 79	2016	Dig Your Roots	Florida Georgia Line	2016	Country
-80	2016	27-Jul	Fifth Harmony	2016	Pop/Rock
+80	2016	7/27	Fifth Harmony	2016	Pop/Rock
 81	2016	Legend: The Best Of Bob Marley And The Wailers	Bob Marley And The Wailers	1984	Reggae
 82	2016	untitled unmastered.	Kendrick Lamar	2016	Rap
 83	2016	Swaay (EP)	DNCE	2015	Pop/Rock
@@ -1110,7 +1110,7 @@
 110	2014	The Hunger Games: Catching Fire	Soundtrack	2013	Pop/Rock
 111	2014	Lindsey Stirling	Lindsey Stirling	2012	Pop/Rock
 112	2014	Tailgates & Tanlines	Luke Bryan	2011	Country
-113	2014	True	Avicii	2013	Electronic
+113	2014	TRUE	Avicii	2013	Electronic
 114	2014	NOW That's What I Call Country: Volume 7	Various Artists	2014	Country
 115	2014	The Endless River	Pink Floyd	2014	Pop/Rock
 116	2014	I Am	Yo Gotti	2013	Rap
@@ -1386,7 +1386,7 @@
 186	2013	Hotel California	Tyga	2013	Rap
 187	2013	California 37	Train	2012	Pop/Rock
 188	2013	The Devil Put Dinosaurs Here	Alice In Chains	2013	Pop/Rock
-189	2013	3.0	Marc Anthony	2013	Latin
+189	2013	3	Marc Anthony	2013	Latin
 190	2013	Our Version Of Events	Emeli Sande	2012	Pop/Rock
 191	2013	How Country Feels	Randy Houser	2013	Country
 192	2013	Take Care	Drake	2011	Rap
@@ -1713,7 +1713,7 @@
 113	2011	Enjoy Yourself	Billy Currington	2010	Country
 114	2011	The E.N.D.	The Black Eyed Peas	2009	Pop/Rock
 115	2011	Goodbye Lullaby	Avril Lavigne	2011	Pop/Rock
-116	2011	5.0	Nelly	2010	Rap
+116	2011	5	Nelly	2010	Rap
 117	2011	The King Is Dead	The Decemberists	2011	Pop/Rock
 118	2011	Last Train To Paris	Diddy - Dirty Money	2010	Rap
 119	2011	Love?	Jennifer Lopez	2011	Pop/Rock
@@ -5919,7 +5919,7 @@
 19	1985	The Unforgettable Fire	U2	1984	Pop/Rock
 20	1985	Agent Provocateur	Foreigner	1984	Pop/Rock
 21	1985	Chicago 17	Chicago	184	Pop/Rock
-22	1985	CAN't SLOW DOWN	Lionel Richie	1983	R&B
+22	1985	Can't Slow Down	Lionel Richie	1983	R&B
 23	1985	New Edition	New Edition	1984	R&B
 24	1985	Diamond Life	Sade	1984	R&B
 25	1985	Madonna	Madonna	1983	Pop/Rock
@@ -5931,7 +5931,7 @@
 31	1985	The Power Station	The Power Station	1985	Pop/Rock
 32	1985	Escape	Whodini	1984	Rap
 33	1985	Maverick	George Thorogood	1985	Pop/Rock
-34	1985	Rhythm Of The Night	Debarge	1985	R&B
+34	1985	Rhythm Of The Night	DeBarge	1985	R&B
 35	1985	Tooth and Nail	Dokken	1984	Pop/Rock
 36	1985	Stop Making Sense	Talking Heads	1984	Pop/Rock
 37	1985	The Big Chill	Soundtrack	1983	Stage & Screen
@@ -5998,6 +5998,106 @@
 98	1985	Vox Humana	Kenny Loggins	1985	Pop/Rock
 99	1985	BORN TO RUN	Bruce Springsteen	1975	Pop/Rock
 100	1985	The Breakfast Club	Soundtrack	1985	Stage & Screen
+1	1984	Thriller	Michael Jackson	1982	R&B
+2	1984	Sports	Huey Lewis & The News	1983	Pop/Rock
+3	1984	Can't Slow Down	Lionel Richie	1983	R&B
+4	1984	An Innocent Man	Billy Joel	1983	Pop/Rock
+5	1984	Colour By Numbers	Culture Club	1983	Pop/Rock
+6	1984	1984	Van Halen	1984	Pop/Rock
+7	1984	Eliminator	ZZ Top	1983	Pop/Rock
+8	1984	Synchonicity	The Police	1983	Pop/Rock
+9	1984	Footloose	Soundtrack	1984	Stage & Screen
+10	1984	Seven and the Ragged Tiger	Duran Duran	1983	Pop/Rock
+11	1984	She's So Unusual	Cyndi Lauper	1983	Pop/Rock
+12	1984	Heartbeat City	The Cars	1984	Pop/Rock
+13	1984	WhatÕs New	Linda Ronstadt	1983	Vocal
+14	1984	Break Out	The Pointer Sisters	1983	R&B
+15	1984	Midnight Madness	Night Ranger	1983	Pop/Rock
+16	1984	Rebel Yell	Billy Idol	1983	Pop/Rock
+17	1984	Madonna	Madonna	1983	Pop/Rock
+18	1984	Shout at the Devil	Motley Crue	1983	Pop/Rock
+19	1984	Uh-Huh	John Cougar Mellencamp	1983	Pop/Rock
+20	1984	The Big Chill	Soundtrack	1983	Stage & Screen
+21	1984	90215	Yes	1971	Pop/Rock
+22	1984	1999	Prince	1982	R&B
+23	1984	No Parking on the Dancefloor	Midnight Star	1983	R&B
+24	1984	Purple Rain	Prince And The Revolution	1984	R&B
+25	1984	Metal Health	Quiet Riot	1983	Pop/Rock
+26	1984	Stay With Me Tonight	Jeffrey Osborne	1983	R&B
+27	1984	Touch	Eurythmics	1983	Pop/Rock
+28	1984	Born in the U.S.A.	Bruce Springsteen	1984	Pop/Rock
+29	1984	Love At First Sting	Scorpions	1984	Pop/Rock
+30	1984	Learning To Crawl	The Pretenders	1984	Pop/Rock
+31	1984	Pyromania	Def Leppard	1983	Pop/Rock
+32	1984	Flashdance	Soundtrack	1983	Stage & Screen
+33	1984	Lionel Richie	Lionel Richie	1982	R&B
+34	1984	Genesis	Genesis	1983	Pop/Rock
+35	1984	Future Shock	Herbie Hancock	1983	Jazz
+36	1984	"Rock'N'Soul, Part 1"	Daryl Hall & John Oates	1983	Pop/Rock
+37	1984	Into The Gap	Thompson Twins	1984	Pop/Rock
+38	1984	Roll On	Alabama	1984	Country
+39	1984	Private Dancer	Tina Turner	1984	R&B
+40	1984	Julio	Julio Iglesias	1983	Vocal
+41	1984	Out of the Cellar	Ratt	1984	Pop/Rock
+42	1984	Kissing To Be Clever	Culture Club	1982	Pop/Rock
+43	1984	Under a Blood Red Sky	U2	1983	Pop/Rock
+44	1984	Eyes That See In The Dark	Kenny Rogers	1983	Country
+45	1984	Busy Body	Luther Vandross	1983	R&B
+46	1984	In The Heart	Kool & The Gang	1983	R&B
+47	1984	Street Talk	Steve Perry	1984	Pop/Rock
+48	1984	Tour De Force	.38 Special	1984	Pop/Rock
+49	1984	Self Control	Laura Branigan	1984	Pop/Rock
+50	1984	Talk Show	The Go-Go's	1984	Pop/Rock
+51	1984	Defenders of the Faith	Judas Priest	1984	Pop/Rock
+52	1984	In Heat	The Romantics	1983	Pop/Rock
+53	1984	Off The Wall	Michael Jackson	1979	R&B
+54	1984	The Crossing	Big Country	1983	Pop/Rock
+55	1984	It's Your Night	James Ingram	1983	R&B
+56	1984	Frontiers	Journey	1983	Pop/Rock
+57	1984	Greatest Hits	Air Supply	1988	Pop/Rock
+58	1984	Bon Jovi	Bon Jovi	1984	Pop/Rock
+59	1984	Points Of A Curve	Wang Chung	1983	Pop/Rock
+60	1984	In A Special Way	DeBarge	1983	R&B
+61	1984	Let The Music Play	Shannon	1983	R&B
+62	1984	17	Chicago	1984	Pop/Rock
+63	1984	Jane Fonda's Workout Record	Jane Fonda	1981	Comedy/Spoken
+64	1984	Let's Dance	David Bowie	1983	Pop/Rock
+65	1984	December	George Winston	1982	New Age
+66	1984	Body And Soul	Joe Jackson	1984	Pop/Rock
+67	1984	Too Fast For Love	Motley Crue	1981	Pop/Rock
+68	1984	Comedian	Eddie Murphy	1983	Comedy/Spoken
+69	1984	Ghostbusters	Soundtrack	1984	Stage & Screen
+70	1984	Reckoning	R.E.M.	1984	Pop/Rock
+71	1984	Duran Duran	Duran Duran	1981	Pop/Rock
+72	1984	Sweet Dreams (Are Made Of This)	Eurythmics	1983	Pop/Rock
+73	1984	Grace Under Pressure	Rush	1984	Pop/Rock
+74	1984	Victory	Jacksons	1984	R&B
+75	1984	Somebody's Watching Me	Rockwell	1984	R&B
+76	1984	Breakin'	Soundtrack	1984	Stage & Screen
+77	1984	The Wild Heart	Stevie Nicks	1983	Pop/Rock
+78	1984	Rio	Duran Duran	1982	Pop/Rock
+79	1984	Don't Stop	Billy Idol	1981	Pop/Rock
+80	1984	Twenty Greatest Hits	Kenny Rogers	1987	Country
+81	1984	Undercover	The Rolling Stones	1983	Pop/Rock
+82	1984	Windows and Walls	Dan Fogelberg	1984	Pop/Rock
+83	1984	I'm In Love Again	Patti LaBelle	1983	R&B
+84	1984	Live From Earth	Pat Benatar	1983	Pop/Rock
+85	1984	Love Life	Berlin	1984	Pop/Rock
+86	1984	Ammonia Avenue	The Alan Parsons Project	1984	Pop/Rock
+87	1984	Camoflauge	Rod Stewart	1984	Pop/Rock
+88	1984	Gap Band V- Jammin'	The Gap Band	1983	R&B
+89	1984	Lick It Up	Kiss	1983	Pop/Rock
+90	1984	Yentl	Barbra Streisand	1983	Vocal
+91	1984	About Face	David Gillmore	1984	Pop/Rock
+92	1984	Bark At The Moon	Ozzy Osbourne	1983	Pop/Rock
+93	1984	Labor Of Love	UB 40	1983	Pop/Rock
+94	1984	The Closer You Get	Alabama	1983	Country
+95	1984	Stay Hungry	Twisted Sister	1984	Pop/Rock
+96	1984	What a Feelin'	Irene Cara	1983	Pop/Rock
+97	1984	War	U2	1983	Pop/Rock
+98	1984	Pipes of Peace	Paul McCartney	1983	Pop/Rock
+99	1984	Speaking in Tongues	Talking Heads	1983	Pop/Rock
+100	1984	No Brakes	John Waite	1984	Pop/Rock
 1	1983	Thriller	Michael Jackson	1982	R&B
 2	1983	Business As Usual	Men At Work	1982	Pop/Rock
 3	1983	Synchronicity	The Police	1983	Pop/Rock
@@ -6040,7 +6140,7 @@
 40	1983	Special Beat Service	Special Beat Service	1982	Pop/Rock
 41	1983	Friend or Foe	Adam Ant	1982	Pop/Rock
 42	1983	The Lexicon Of Love	ABC	1982	Pop/Rock
-43	1983	All This Love	Debarge	1982	R&B
+43	1983	All This Love	DeBarge	1982	R&B
 44	1983	Living In Oz	Rick Springfield	1983	Pop/Rock
 45	1983	Midnight Love	Marvin Gaye	1982	R&B
 46	1983	Three Lock Box	Sammy Hagar	1983	Pop/Rock
@@ -7280,7 +7380,7 @@
 80	1971	Manna	Bread	1971	Pop/Rock
 81	1971	This Is A Recording	Lily Tomlin	1971	Comedy/Spoken
 82	1971	Hanging in There	Hudson & Landry	1971	Comedy/Spoken
-83	1971	11-17-70	Elton John	1971	Pop/Rock
+83	1971	11/17/70	Elton John	1971	Pop/Rock
 84	1971	Plastic Ono Band	John Lennon / Plastic Ono Band	1970	Pop/Rock
 85	1971	Burt Bacharach	Burt Bacharach	1971	Easy Listening
 86	1971	Homemade	The Osmonds	1971	Pop/Rock
